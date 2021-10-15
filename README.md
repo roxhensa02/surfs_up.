@@ -2,6 +2,7 @@
 ## Overview of the analysis: 
 
 **Explain the purpose of this analysis.**
+
 As the surf and ice cream shop will be running throught the year, we wany to conduct analysis on two different months, a month during the summer June and a month during the winter, December. Comparing these two mnths will give better understanding on key differences of the temperature between these two months.
 
 
@@ -17,4 +18,4 @@ As the surf and ice cream shop will be running throught the year, we wany to con
 ## Summary:
 **Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.**
 
-Based on the results of our analysis, we can determine that these two months do not have sinificant differences. As the standard deviation and the average temperature are very close, we can suggest that the shop will perform good in both these months. To gather more weather data and determine how is affecting in different station, we can perform a query comparing the stations. These will highlight the station with more data, and we can also determine the weather changes on these stations.
+Based on the results of our analysis, we can determine that these two months do not have sinificant differences. As the standard deviation and the average temperature are very close, we can suggest that the shop will perform good in both these months. To gather more weather data and determine how is affecting in different station, we can perform a query comparing the stations. These will highlight the station with more data, and we can also determine the weather changes on these stations. We can also run a query on the perception number between the months of June and December.
